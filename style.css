@@ -6,7 +6,7 @@ body {
 }
 .bg {
 	position: relative;
-	background: url(background.png);
+	background: url(background.PNG);
 	height: 70vh;
 	background-size: cover;
 	background-position: 0 0;
