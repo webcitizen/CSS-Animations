@@ -6,7 +6,7 @@ body {
 }
 .bg {
 	position: relative;
-	background: url(background.PNG);
+	background: url(background.png);
 	height: 70vh;
 	background-size: cover;
 	background-position: 0 0;
@@ -15,7 +15,7 @@ body {
 }
 .car {
 	position: absolute;
-	bottom: 25px;
+	bottom: 12px;
 	left: 10px;
 }
 @keyframes animate {
